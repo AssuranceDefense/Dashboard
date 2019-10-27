@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="gunIsDetected">
+    <file>x.png</file>
+  </qresource>
+  <qresource prefix="gunIsNotDetected">
+    <file>checkmark.png</file>
+  </qresource>
+</RCC>
